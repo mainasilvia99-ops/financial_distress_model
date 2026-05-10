@@ -1,5 +1,8 @@
+
 # financial_distress_model
 This script clearly demonstrates that while Fulmer (the right-most bars) stays above zero, Altman and Springate are deep in the "danger zone" below their respective lines for EAPC PLC.
+
+<img width="818" height="451" alt="eapc_analysis" src="https://github.com/user-attachments/assets/e0b539d4-fd34-4a61-94b5-6d80485c29c0" />
 
 # Corporate Failure Prediction: A Case Study of East African Portland Cement (EAPC) PLC
 
