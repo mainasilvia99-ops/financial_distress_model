@@ -25,6 +25,20 @@ The project implements a Python-based multi-model approach:
 *   **Libraries:** pandas (data structuring), matplotlib (visualization)
 *   **Data Source:** Fully audited consolidated financial statements from EAPC Annual Reports and Dyer & Blair.
 
+## Financial Variable	FY 2022-2023 (KES '000)	FY 2023-2024 (KES '000)
+*  **Total Assets** 	32,780,931	35,186,150
+*  **Total Liabilities**	13,566,668	14,785,418
+*  **Total Equity**	19,214,263	20,400,732
+*  **Revenue (Sales)**	2,953,573	3,279,053
+*  **Working Capital (CA - CL)** 	(11,824,491)	(6,090,885)
+*  **Retained Earnings**	17,760,370	18,827,445
+*  **EBIT (Operating Profit/Loss)**	(1,926,027)	(1,961,489)
+* **Current Assets**	1,731,893	6,743,038
+*  **Current Liabilities**	13,556,384	12,833,923
+*  **Net Income (PAT)**	(1,356,467)	1,067,075
+
+
+
 ## How to Run the Analysis
 *  1. Clone the repository:
 git clone 
